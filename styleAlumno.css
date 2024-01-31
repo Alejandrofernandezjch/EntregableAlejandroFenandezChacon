@@ -16,3 +16,6 @@ li{
  font-size: 3rem;
  color: rgb(39, 19, 212); 
 }
+*{
+    background-color: blueviolet;
+}
